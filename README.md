@@ -2,3 +2,4 @@
 Testihommia Gitin kanssa
 Kokeillaan mitä tapahtuu?
 Tapahtuuko lisää?
+Kokeillaan vielä muistin virkistämiseksi!
